@@ -1,0 +1,8 @@
+
+ -> Test -> Test
+    - ERROR | spec: The specification defined in `Test` could not be loaded.
+
+Is a directory - Test
+
+[!] Test did not pass validation, due to 1 error.
+You can use the `--no-clean` option to inspect any issue.

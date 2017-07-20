@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Mexiang'
+  s.homepage         = 'https://github.com/Mexiang/Test'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mexiang' => 'xiang.meng@evdingding.com' }
   s.source           = { :git => 'https://github.com/Mexiang/Test.git', :tag => s.version.to_s }
